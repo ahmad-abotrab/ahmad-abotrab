@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ahmad abotrab
-- 👀 I’m interested in software engineering, programming in Java and problem solving
-- 🌱 I’m currently learning data science
+- 👀 I’m studying software engineering
+- I'm work as Mobile Application Developer by Flutter Framework 
+- I'm work as Backend Developer by Laravel Framework
+- I’m have good knowladge of Java , Python and Javascript
    <h4 dir="auto">
         <a id="user-content--languages-" class="anchor" aria-hidden="true" href="#-languages-">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
