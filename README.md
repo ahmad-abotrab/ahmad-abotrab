@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Ahmad Abotrab 👋</h1>
+<h3 align="left">Hi, I'm Ahmad Abotrab 👋</h3>
 
-<p align="center">
+<p align="left">
   <b>Software Engineer</b> • <b>Data Engineer</b> • <b>Data Analyst</b> • <b>Tech Innovator</b>
 </p>
 
-<p align="center">
+<p align="left">
   I design scalable software solutions and turn data into actionable insights that support business growth.
 </p>
 
@@ -16,7 +16,7 @@
 - Turning complex data into practical insights
 
 ## 🛠️ Skills
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -26,11 +26,11 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=github_dark" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad-abotrab&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-abotrab&layout=compact&theme=transparent" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USERNAME&theme=github_dark&utcOffset=3" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ahmad-abotrab&theme=transparent" />
 </p>
